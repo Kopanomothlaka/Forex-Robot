@@ -1,6 +1,6 @@
 <h1 align="center">Forex Trading Robot - SMA Crossover Strategy</h1>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9bcc92a8-1bc1-409c-9125-dc26adb526f9" alt="GUI Screenshot" width="600">
+  <img src="https://github.com/user-attachments/assets/9bcc92a8-1bc1-409c-9125-dc26adb526f9" alt="GUI Screenshot" width="1000">
 </p><p>This is an <strong>automated Forex trading robot</strong> built using Python and MetaTrader 5. It implements a <strong>Simple Moving Average (SMA) Crossover Strategy</strong> to identify trading opportunities and execute trades automatically. The robot is designed to be simple, efficient, and customizable, making it suitable for both beginners and experienced traders.</p>
 
 <h2>✨ Features</h2><ul>
@@ -71,11 +71,10 @@ cd forex-trading-robot</code></pre>
   <li>Open a pull request.</li>
 </ol>
 
-<h2>📜 License</h2>
-<p>This project is licensed under the <strong>MIT License</strong>. See the <a href="LICENSE">LICENSE</a> file for details.</p>
+
 
 <h2>⚠️ Disclaimer</h2>
 <p>This Forex trading robot is for <strong>educational purposes only</strong>. Trading in the Forex market involves significant risk, and you should only trade with money you can afford to lose. The developers are not responsible for any financial losses incurred while using this software.</p>
 
 <h2>📞 Support</h2>
-<p>If you have any questions or need help, feel free to open an issue on GitHub or contact me at <a href="mailto:your-email@example.com">your-email@example.com</a>.</p>
+<p>If you have any questions or need help, feel free to open an issue on GitHub or contact me at <a href="mailto:kopanomothlaka@gmail.com">kopanomothlaka@gmail.com</a>.</p>
